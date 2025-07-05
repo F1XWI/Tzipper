@@ -9,5 +9,8 @@
 
 📥 **[Download Tzipper for Windows](https://github.com/F1XWI/Tzipper/releases/download/publish/TzipperSetup.exe)**
 
-## Features
-...
+## Tzipper Features
+## Tzipper tries to minimize your archives for faster download speeds so they dont get stuck waiting
+
+
+## Give feedback
