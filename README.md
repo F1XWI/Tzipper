@@ -7,7 +7,7 @@
 🔹 Open and extract `.tzip` archives  
 🔹 Simple, lightweight alternative to ZIP and RAR
 
-📥 **[Download Tzipper for Windows](https://github.com/yourname/tzipper/releases/latest)**
+📥 **[Download Tzipper for Windows](https://github.com/F1XWI/Tzipper/releases/download/publish/TzipperSetup.exe)**
 
 ## Features
 ...
